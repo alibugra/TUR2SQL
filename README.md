@@ -7,7 +7,7 @@ If you submit papers on TUR2SQL, please let us know so we can merge your results
 ### Execution Accuracy (EX) and Logical Form Accuracy (LFA) of LLMs on the TUR2SQL development set
 
 | Model | Logical Form Accuracy (LFA) | Execution Accuracy (EX) |
-| :---:        | :---:         |
+| :---:        | :---:         | :---:         |
 | SQLNet | 42.92 | 44.49 |
 | ChatGPT | 93.61 | 98.79 |
 | T5 (With Schema Context) [1] | 98.24 | 98.24 |
@@ -18,7 +18,7 @@ If you submit papers on TUR2SQL, please let us know so we can merge your results
 ### Execution Accuracy (EX) and Logical Form Accuracy (LFA) of LLMs on the TUR2SQL test set
 
 | Model | Logical Form Accuracy (LFA) | Execution Accuracy (EX) |
-| :---:        | :---:         |
+| :---:        | :---:         |:---:         |
 | SQLNet | 39.03 | 40.19 |
 | ChatGPT | 86.72 | 98.38 |
 | T5 (With Schema Context) [1] | 98.38 | 98.38 |
